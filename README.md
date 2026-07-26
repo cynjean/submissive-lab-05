@@ -11,6 +11,7 @@ Commerce Control Lab is a React-based administrator portal for an e-commerce sho
 - Simulated backend with `json-server` and `db.json`.
 - CRUD support: GET products, POST new products, PATCH product updates, and DELETE products.
 - Vitest and React Testing Library tests for routing, searching, form submission, and updating products.
+- Local Git history includes a main branch commit plus a merged documentation feature branch.
 
 ## Setup
 
