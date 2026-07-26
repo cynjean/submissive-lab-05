@@ -1,0 +1,57 @@
+{
+  "store_info": [
+    {
+      "id": 1,
+      "name": "Circuit Shelf",
+      "description": "A focused admin portal for managing curated electronics and workspace gear.",
+      "phone_number": "555-0199",
+      "email": "admin@circuitshelf.test"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Aurora Desk Lamp",
+      "category": "Lighting",
+      "description": "Adjustable LED desk lamp with warm, neutral, and cool lighting modes.",
+      "sku": "LIGHT-AUR-100",
+      "price": 48.99,
+      "stock": 28,
+      "featured": true,
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Pulse Wireless Keyboard",
+      "category": "Accessories",
+      "description": "Compact wireless keyboard with quiet keys and multi-device pairing.",
+      "sku": "KEY-PUL-240",
+      "price": 79.5,
+      "stock": 16,
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": 3,
+      "name": "DockMate USB-C Hub",
+      "category": "Connectivity",
+      "description": "Seven-port USB-C hub with HDMI, Ethernet, SD card, and fast pass-through charging.",
+      "sku": "HUB-DOC-700",
+      "price": 62,
+      "stock": 21,
+      "featured": true,
+      "image": "https://images.unsplash.com/photo-1625842268584-8f3296236761?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Focus Noise-Canceling Headphones",
+      "category": "Audio",
+      "description": "Over-ear headphones with active noise cancellation and 40-hour battery life.",
+      "sku": "AUD-FOC-410",
+      "price": 129.99,
+      "stock": 9,
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+    }
+  ]
+}
